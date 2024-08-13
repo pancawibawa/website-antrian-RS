@@ -14,6 +14,7 @@
             $('#createAntrian').modal('hide')
             $('#editAntrian').modal('hide')
             $('#deleteAntrian').modal('hide')
+            
         })
     
     </script>

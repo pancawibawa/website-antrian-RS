@@ -36,6 +36,7 @@
 </head>
 
 <body>
+  {{-- aku adalah body --}}
 
 
   @yield('content')
